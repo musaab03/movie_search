@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Movie Searcj👋</h1>
+<h1 align="center">Welcome to Movie Search 👋</h1>
 
 > A simple search engine to browse through thousands of movies
 
